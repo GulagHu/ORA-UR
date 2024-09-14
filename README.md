@@ -1,5 +1,5 @@
 # ORA-UR
-Code for "Unanticipated replenishment: online policy for dynamic service composition in manufacturing cloud"
+Code and manuscript for "Unanticipated replenishment: online policy for dynamic service composition in manufacturing cloud"
 
 My_algos.py contains benchmarks, models and auxiliary functions. 
 
